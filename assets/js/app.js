@@ -1,7 +1,7 @@
-// Init local starage
+// Init local storage
 let db = window.localStorage;
 
-// Get all activites
+// Get all activities
 let activities = document.querySelectorAll("input.form-check-input");
 
 // Iterate through activities
